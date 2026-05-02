@@ -1,4 +1,4 @@
-# ⚡ Electronic Circuits Mini Projects
+# ⚡ Electronic Circuits Projects
 
 > Two analog and digital electronics projects developed  a **Colpitts Oscillator with Current Shunt Feedback Amplifier** for stable 25 kHz sinusoidal signal generation, and a **NAND Gate implemented using PN Junction Diodes** demonstrating universal logic using discrete components.
 
